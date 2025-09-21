@@ -28,7 +28,7 @@ function Navbar() {
             <nav className={cn(
                 "fixed w-full z-40 transition-all duration-300 ",
                 // "bg-background/80 backdrop-blur-md shadow-xs py-3",
-                isScrolled ? "py-3 bg-background/80 backdrop-blur-md shadow-xs" : "py-5 backdrop-blur-md"
+                isScrolled ? "py-3 bg-background/80 backdrop-blur-md shadow-xs" : "py-5 "
             )}
             >
 
