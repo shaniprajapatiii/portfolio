@@ -13,23 +13,23 @@ const navItems = [
 
 function Navbar() {
 
-    const [isScrolled, setIsScrolled] = useState(false);
+    // const [isScrolled, setIsScrolled] = useState(false);
     const [isMenuOpen, setMenuOpen] = useState(false);
 
-    useEffect( () => {
-        const handleScroll = () => {
-            setIsScrolled(window.screenY > 10);
-        };
+    // useEffect( () => {
+    //     const handleScroll = () => {
+    //         setIsScrolled(window.screenY > 10);
+    //     };
 
-        window.addEventListener("scroll", handleScroll);
-        return () => window.removeEventListener("scroll", handleScroll);
-    }, []);
+    //     window.addEventListener("scroll", handleScroll);
+    //     return () => window.removeEventListener("scroll", handleScroll);
+    // }, []);
 
     return (
             <nav className={cn(
                 "fixed w-full z-40 transition-all duration-300 ",
-                // "bg-background/80 backdrop-blur-md shadow-xs py-3",
-                isScrolled ? "py-3 bg-background/80 backdrop-blur-md shadow-xs" : "py-5 "
+                "bg-background/80 backdrop-blur-md shadow-xs py-3",
+                // isScrolled ? "py-3 bg-background/80 backdrop-blur-md shadow-xs" : "py-5 "
             )}
             >
 
