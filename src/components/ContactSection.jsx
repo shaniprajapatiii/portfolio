@@ -125,7 +125,8 @@ export const ContactSection = () => {
                                 <a href="https://github.com/shaniprajapatiii" target="_blank"> <Github /> </a>
                                 <a href="#" target="_blank"> <Twitter /> </a>
                                <a href="https://www.instagram.com/shaniprajapatiii/" target="_blank"> <Instagram /> </a>
-                                <a href="https://leetcode.com/u/shaniprajapatiii/" target="_blank"> <Computer /> </a>
+                                {/* <a href="https://leetcode.com/u/shaniprajapatiii/" target="_blank"> <Computer /> </a> */}
+                                <a href="#" target="_blank"> <Computer /> </a>
                             </div>
                         </div>
                     </div>
