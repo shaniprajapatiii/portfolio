@@ -3,21 +3,21 @@ import { cn } from "../lib/Utiis";
 
 const skills = [
     // programming languages
-    {name: "Java", level: "70", category: "Programming"},
-    {name: "Python", level: "40", category: "Programming"},
+    {name: "Java", level: "90", category: "Programming"},
+    {name: "Python", level: "70", category: "Programming"},
     // frontend
     {name: "HTML", level: "90", category: "Frontend"},
     {name: "CSS", level: "90", category: "Frontend"},
-    {name: "JavaScript", level: "75", category: "Frontend"},
+    {name: "JavaScript", level: "80", category: "Frontend"},
     {name: "React", level: "80", category: "Frontend"},
     // backend
-    {name: "Node.js", level: "10", category: "Backend"},
-    {name: "Express", level: "10", category: "Backend"},
-    {name: "MongoDB", level: "10", category: "Database"},
-    {name: "SQL", level: "10", category: "Database"},
+    {name: "Node.js", level: "80", category: "Backend"},
+    {name: "Express", level: "80", category: "Backend"},
+    {name: "MongoDB", level: "80", category: "Database"},
+    // {name: "SQL", level: "10", category: "Database"},
     // tools
-    {name: "Git", level: "50", category: "Tools"},
-    {name: "Docker", level: "10", category: "Tools"},
+    {name: "Git and GitHub", level: "70", category: "Tools"},
+    {name: "Docker", level: "70", category: "Tools"},
 ];
 
 const categories = ["All","Programming", "Frontend", "Backend", "Database", "Tools"];

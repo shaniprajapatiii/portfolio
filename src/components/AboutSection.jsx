@@ -16,12 +16,14 @@ export const AboutSection = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                     {/* first grid item */}
                     <div className="space-y-6">
-                        <h3 className="text-2xl font-semibold">Lorem ipsum dolor sit amet.</h3>
+                        <h3 className="text-2xl font-semibold">Hii! I'm Shani Prajapati</h3>
                         <p className="text-muted-foreground">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Deleniti quasi tenetur inventore eaque repellat voluptate blanditiis alias veniam natus facere.
+                            I have a strong foundation in programming concepts and modern web technologies like JavaScript, React, Tailwind CSS, Express, and MongoDB.
                         </p>
                         <p className="text-muted-foreground">
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, ipsum. Possimus quae obcaecati laborum dolor deleniti quaerat quos iusto. Natus!
+                            I'm currently strengthening my skills in Data Structures and Algorithms using Java.
+                            Passionate About Solving Real-World Problems through Technology.
+                            Quick Learner & Tech Explorer and Focused on Growth and self-development.
                         </p>
                         
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -45,7 +47,7 @@ export const AboutSection = () => {
                                 <div className="text-left">
                                     <h5 className="text-lg font-semibold">Web Development</h5>
                                     <p className="text-muted-foreground text-sm">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                        I build responsive and user-friendly websites using modern web technologies.
                                     </p>
                                 </div>
                             </div>
@@ -56,9 +58,9 @@ export const AboutSection = () => {
                                     <User className="text-primary w-5 h-5" />
                                 </div>
                                 <div className="text-left">
-                                    <h5 className="text-lg font-semibold">UI/UX Design</h5>
+                                    <h5 className="text-lg font-semibold">Tech team Member</h5>
                                     <p className="text-muted-foreground text-sm">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                        Active member of the tech team at GLBITM and contributing to various projects.
                                     </p>
                                 </div>
                             </div>
@@ -69,9 +71,11 @@ export const AboutSection = () => {
                                     <Briefcase className="text-primary w-5 h-5" />
                                 </div>
                                 <div className="text-left">
-                                    <h5 className="text-lg font-semibold">Project Management</h5>
+                                    <h5 className="text-lg font-semibold">UI/UX Design</h5>
+
                                     <p className="text-muted-foreground text-sm">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                                        I have knowledge of figma and can create visually appealing and user-friendly designs.
+                                        I am also familiar with three.js for creating interactive 3D web experiences.
                                     </p>
                                 </div>
                             </div>

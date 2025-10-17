@@ -18,9 +18,9 @@ function HeroSection() {
                         <span className="text-gradient ml-2 opacity-0 animate-fade-in-delayed-2"> Prajapati</span>
                     </h1>
                     <p className="text-xs md:text-sm text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delayed-3">
-                        Hello! I'm Shani Prajapati, currently in my second year at GL Bajaj Institute of Technology and Management, pursuing B.Tech in IT.
+                        Hello! I'm Shani Prajapati, currently in my second year of studying at GL Bajaj Institute of Technology and Management, pursuing B.Tech in Computer Science(Information Technology).
                         I'm currently strengthening my skills in Data Structures and Algorithms using Java.
-                        Alongside DSA, I am also building a foundation in Mern-Stack Development and exploring AI applictions, with the goal of becoming a well-rounded Software Engineer.
+                        Alongside DSA, I am also building a foundation in Mern-Stack Development and exploring AI applications, with the goal of becoming a well-rounded Software Engineer.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delayed-4">

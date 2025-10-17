@@ -11,15 +11,15 @@ const projects = [
         projectUrl: "#",
         githubUrl: "https://github.com/shaniprajapatiii",
     },
-    {
-        id: 2,
-        title: "Crop Yield Predictor",
-        description: "Predict crop yields based on various factors.",
-        image: "/WeatherMap.png",
-        tags: ["Machine Learning", "Python", "API"],
-        projectUrl: "#",
-        githubUrl: "https://github.com/shaniprajapatiii",
-    },
+    // {
+    //     id: 2,
+    //     title: "Crop Yield Predictor",
+    //     description: "Predict crop yields based on various factors.",
+    //     image: "/WeatherMap.png",
+    //     tags: ["Machine Learning", "Python", "API"],
+    //     projectUrl: "#",
+    //     githubUrl: "https://github.com/shaniprajapatiii",
+    // },
 ]
 
 
